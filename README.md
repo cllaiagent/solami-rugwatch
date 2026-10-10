@@ -113,7 +113,7 @@ flowchart TD
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/solami-rugwatch/solami-rugwatch.git
+git clone https://github.com/cllaiagent/solami-rugwatch.git
 cd solami-rugwatch
 ```
 

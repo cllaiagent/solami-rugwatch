@@ -96,9 +96,8 @@ Powered by Solami's bare-metal infrastructure (Yellowstone gRPC streaming, Blur 
 
 ### 3. Project Github Link
 ```
-https://github.com/your-username/solami-rugwatch
+https://github.com/cllaiagent/solami-rugwatch
 ```
-*(Replace `your-username` with your GitHub username once pushed)*
 
 ### 4. Project Website
 ```
